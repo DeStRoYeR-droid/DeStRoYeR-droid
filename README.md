@@ -17,6 +17,7 @@ You can check out my writing page at <a href = "https://www.instagram.com/hearts
 and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank"> ☕ </a>.
 <br>
 
+Link to my <a href = "https://resume.io/r/A1p8flJc4"> resume </a> <br>
 You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) for collab or maybe just some deep talk session 😉.
 
 <div id="badges" align = "center">
