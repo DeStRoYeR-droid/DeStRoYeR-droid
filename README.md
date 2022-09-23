@@ -32,11 +32,14 @@ and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuel
 
 <hr>
 <div align = "center">
-<img src = "https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=for-the-badge&color=00d5d6"> <br>
+
+<img src = "https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=for-the-badge&color=00d5d6">
 
 <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
 
