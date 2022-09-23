@@ -6,11 +6,16 @@ align = "center">
 <h1> Hi There 👋🏼 </h1>
 <br>
 
-Welcome to my GitHub profile, <br>
+Welcome to my GitHub profile, <br><br>
 I'm Immanuel Vivek, a full time hustler and part time programmer 👨🏾‍💻 and writer 📝. <br>
-An aspiring programmer since I was 15 🧒🏽, my journey through programming has led to some awesome experiences.
-
-Now that I have started sharing my work on GitHub on a regular basis, I hope to get a lot of pull requests 😉, and even more issues 😝.
+An aspiring programmer since I was 15 🧒🏽, my journey through programming has led to some awesome experiences. <br>
+<br>
+Now that I have started sharing my work on GitHub 🤝🏼 on a regular basis,<br>
+I hope to get a lot of pull requests 😉, and even more issues 😝.<br>
+<br>
+You can check out my writing page at <a href = "https://www.instagram.com/hearts_auditor/"> @hearts_auditor 😉 </a>
+also linked below.
+<br>
 
 <hr>
 
