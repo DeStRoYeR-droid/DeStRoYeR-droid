@@ -31,7 +31,7 @@ and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuel
 </center>
 
 <hr>
-
+<div align = "center">
 <img src = "https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=for-the-badge&color=00d5d6"> <br>
 
 <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank">
@@ -39,3 +39,5 @@ and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuel
 </a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
+
+</div>
