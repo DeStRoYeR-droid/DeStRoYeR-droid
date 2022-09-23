@@ -2,6 +2,7 @@
 align = "center">
 
 <hr>
+<center>
 
 <h1> Hi There 👋🏼 </h1>
 <br>
@@ -28,6 +29,8 @@ also linked below.
   </a>
 </div>
 
+</center>
+
 <hr>
 
-![](https://komarev.com/ghpvc/?username=DeStRoYeR-droid&color=green)
+![](https://komarev.com/ghpvc/?username=DeStRoYeR-droid&color=blue&style=flat-square)
