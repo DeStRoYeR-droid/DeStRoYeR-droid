@@ -2,9 +2,8 @@
 align = "center">
 
 <hr>
-<center>
 
-<h1> Hi There 👋🏼 </h1>
+<h1 align = "center"> Hi There 👋🏼 </h1>
 <br>
 
 Welcome to my GitHub profile, <br><br>
@@ -20,7 +19,7 @@ also linked below.
 
 <hr>
 
-<div id="badges">
+<div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/immanuel-vivek-tirkey-9a5855227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
