@@ -19,8 +19,6 @@ and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuel
 
 You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) :)
 
-<hr>
-
 <div id="badges" align = "center">
     <a href="https://www.linkedin.com/in/immanuel-vivek-tirkey-9a5855227/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
