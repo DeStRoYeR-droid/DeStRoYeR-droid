@@ -17,6 +17,8 @@ You can check out my writing page at <a href = "https://www.instagram.com/hearts
 and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank"> ☕ </a>.
 <br>
 
+- Reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) :)
+
 <hr>
 
 <div id="badges" align = "center">
@@ -38,8 +40,6 @@ and also help me stay caffeinated <a href="https://www.buymeacoffee.com/immanuel
 <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
 
