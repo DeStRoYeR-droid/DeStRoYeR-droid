@@ -20,16 +20,21 @@ also linked below.
 <hr>
 
 <div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/immanuel-vivek-tirkey-9a5855227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/hearts_auditor/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/immanuel-vivek-tirkey-9a5855227/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/hearts_auditor/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+    </a>
 </div>
 
 </center>
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=DeStRoYeR-droid&color=blue&style=flat-square)
+<img src = "https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=for-the-badge&color=00d5d6"> <br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
