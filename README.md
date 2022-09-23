@@ -38,7 +38,7 @@ You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) :)
 <img src = "https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=for-the-badge&color=00d5d6">
 
 <a href="https://www.buymeacoffee.com/immanuelvivek" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="125" >
 </a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
