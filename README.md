@@ -40,6 +40,8 @@ You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) for 
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
 </a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&show_icons=true&theme=gotham" alt="DeStRoYeR-droid" />
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DeStRoYeR-droid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeStRoYeR-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
