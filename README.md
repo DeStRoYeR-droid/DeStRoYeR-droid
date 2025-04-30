@@ -26,7 +26,8 @@ You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) for 
     </a>
     <a href="https://www.instagram.com/hearts_auditor/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
+    </a> <br>
+    <img src="https://leetcard.jacoblin.cool/immanuelvivek40609?theme=light&font=Poppins&ext=heatmap" alt="Leetcode stats" />
 </div>
 
 </center>
