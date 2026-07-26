@@ -42,7 +42,5 @@ You can reach out to me via my [email](mailto:immanuelvivek40609@gmail.com) for 
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeStRoYeR-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DeStRoYeR-droid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeStRoYeR-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![DeStRoYeR-droid's GitHub stats](https://github-stats-extended.vercel.app/api?username=DeStRoYeR-droid)](https://github.com/stats-organization/github-stats-extended)
 </div>
