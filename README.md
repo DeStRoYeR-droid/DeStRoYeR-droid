@@ -16,7 +16,7 @@ Building evaluation pipelines for LLMs. Writing C++ that has to be fast.
 
 ## 🔨 What I'm building
 
-### [Chess Analysis and Learning Tool (CALT)](https://github.com/DeStRoYeR-droid/Chess-Analysis-and-Learning-Tool)  ·  `MIT`
+### [Chess Analysis and Learning Tool (CALT)](https://github.com/DeStRoYeR-droid/Chess-Analysis-and-Learning-Tool)  ·  `MIT License`
 
 A research pipeline that asks a hard question: **when an LLM explains a chess position, is it actually right — and is "right" even the same thing as "instructive"?**
 
