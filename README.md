@@ -56,9 +56,7 @@ Link-layer error detection and correction, from scratch, zero dependencies. **Ha
 
 <br><br>
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=destroyer-droid" alt="GitHub stats" />
-
-> **1,397** problems solved · **1,300** in C++ · **500+ day** streak · top **0.82%** of 879,441 rated contestants Strongest in dynamic programming (205), Union-Find, segment trees, and monotonic stacks.
+> **1,397** problems solved · **1,300** in C++ · **500+ day** streak · top **1%** of rated contestants.
 
 ---
 
