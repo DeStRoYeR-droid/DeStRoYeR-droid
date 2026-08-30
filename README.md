@@ -2,9 +2,9 @@
 
 # Immanuel Vivek Tirkey
 
-**Final-year MCA @ NIT Warangal**  ·  Systems programming & applied ML
+**Final-year MCA @ NIT Warangal**  
 
-Building evaluation pipelines for LLMs. Writing C++ that has to be fast.
+Building evaluation pipelines for LLMs · Writing C++ that has to be fast · Playing basketball otherwise 🏀 
 
 <br>
 
