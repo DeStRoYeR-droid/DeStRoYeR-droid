@@ -56,7 +56,7 @@ Link-layer error detection and correction, from scratch, zero dependencies. **Ha
 
 <br><br>
 
-> **1,397** problems solved · **1,300** in C++ · **500+ day** streak · top **1%** of rated contestants.
+> **1,300** in C++ · **500+ day** streak · top **1%** of rated contestants.
 
 ---
 
