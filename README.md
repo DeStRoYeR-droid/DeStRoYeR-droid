@@ -13,6 +13,12 @@ Building evaluation pipelines for LLMs · Writing C++ that has to be fast · Pla
 </div>
 
 ---
+## 🔭 Featured projects
+
+- **[Chess Analysis and Learning Tool](https://github.com/DeStRoYeR-droid/Chess-Analysis-and-Learning-Tool)**: benchmarks LLM chess commentary against Stockfish and human annotations (Python, PyTorch, FastAPI, llama.cpp)
+- **[Nebula Atlas](https://github.com/DeStRoYeR-droid/nebula-atlas)** · [live demo](https://destroyer-droid.github.io/nebula-atlas/): interactive nebula gallery with a sliding-puzzle view (React, Tailwind, Motion, FastAPI, GitHub Pages)
+
+---
 
 ## 🔨 What I'm building
 
