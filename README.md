@@ -80,6 +80,6 @@ Final year of my MCA at NIT Warangal, graduating **2027**. Deep in LLM evaluatio
 
 <div align="center"> <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=DeStRoYeR-droid&style=flat-square&color=00599C)
+![Github stats](https://github-stats-extended.vercel.app/api?username=destroyer-droid)
 
 </div>
