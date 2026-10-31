@@ -19,24 +19,52 @@ Building evaluation pipelines for LLMs · Writing C++ that has to be fast · Pla
 - **[Nebula Atlas](https://github.com/DeStRoYeR-droid/nebula-atlas)** · [live demo](https://destroyer-droid.github.io/nebula-atlas/): interactive nebula gallery with a sliding-puzzle view (React, Tailwind, Motion, FastAPI, GitHub Pages)
 
 ---
-
-## 🔨 What I'm building
-
-### [Chess Analysis and Learning Tool (CALT)](https://github.com/DeStRoYeR-droid/Chess-Analysis-and-Learning-Tool)  ·  `MIT License`
-
+ 
+## 🔨 What I've built
+ 
+### [Chess Analysis and Learning Tool (CALT)](https://github.com/DeStRoYeR-droid/Chess-Analysis-and-Learning-Tool)  ·  `MIT License`
+ 
 A research pipeline that asks a hard question: **when an LLM explains a chess position, is it actually right — and is "right" even the same thing as "instructive"?**
-
+ 
 - Benchmarks LLM-generated commentary against **Stockfish ground truth** and **blind human annotation** across the 300-position Win-at-Chess set, scored on a four-axis compound metric
 - Retrieval subsystem pairing **bitboard tactical-motif detection** with **Zobrist-anchored semantic lookup**, so commentary is grounded in verified patterns instead of free generation
 - **FastAPI + SSE streaming** over a multi-process engine pool; Gemma and Qwen served locally via `llama.cpp` against a shared cache to isolate model quality from engine variance
-
 <sub>`Python` · `PyTorch` · `FastAPI` · `llama.cpp` · `Stockfish` · `SSE`</sub>
-
-### [Error-Correcting Codes](https://github.com/DeStRoYeR-droid/Error-Correcting-Codes)  ·  `C++17`
-
-Link-layer error detection and correction, from scratch, zero dependencies. **Hamming codes** with syndrome-based single-bit correction and **CRC** via polynomial division — each scheme validated against injected bit-flip patterns.
-
-<sub>`C++17` · `Computer Networks` · `Bit manipulation`</sub>
+ 
+### [LandChain: Land Records on a Permissioned Blockchain](https://github.com/DeStRoYeR-droid/land-records-blockchain)
+ 
+A land registry shared by three government departments (Registration, Revenue, Collectorate) — with the ledger **built from scratch** rather than imported.
+ 
+- **Permissioned ledger in plain Python, following Hyperledger Fabric's design:** certificate authorities, 3 Raft orderers, 3 endorsing peers, execute-order-validate with MVCC, and an `AND(Org1, Org2, Org3)` endorsement policy
+- Citizens sign sales with **browser-held `did:key` identities**; every transfer record and validator report is **PGP-signed** and verifiable in the browser or with `gpg --verify`
+- **LangGraph AI validator** on a local Qwen2.5-3B model: 15 fixed checks, then tool-cited investigation with grounding and hallucination screening — it can flag, never approve or edit
+- Map-based public register on an **R\*Tree-indexed GeoPackage** (search by text, area, map window or distance); Next.js dashboards for officials, citizens and the validator; 76 unit tests + 200+ end-to-end checks
+<sub>`Python` · `Next.js` · `React` · `LangGraph` · `OpenPGP` · `SQLite` · `GeoPackage`</sub>
+ 
+### [Trust-Based Secure Routing for Wireless Sensor Networks](https://github.com/DeStRoYeR-droid/trust-routing-wsn)  ·  `C++17`
+ 
+Packet-dropping attackers hide inside multi-hop sensor networks because plain routing can't tell a relay that forwards from one that silently drops.
+ 
+- Trust-aware routing layer on **NS-3**: watchdog overhearing + end-to-end ACKs feed per-node trust; Dijkstra routes around low-trust relays
+- Raises packet delivery under blackhole attacks from **19% to 94%**, with **zero honest nodes flagged** across 130 paired runs
+- Traced a **1.5 GB-per-run memory blow-up** to the simulator's energy model with Valgrind massif; replaced it with an equivalent model (within 0.01%), cutting memory **50×**
+- Tests at four layers (C++, Python, JS, browser end-to-end) and an Obsidian-style **D3 viewer** that replays attackers being caught
+<sub>`C++17` · `NS-3` · `Python` · `D3.js` · `Valgrind`</sub>
+ 
+### [Agentic AI Defence for Medical IoT](https://github.com/DeStRoYeR-droid/agentic-iomt-defense)
+ 
+A simulated hospital network where ECG traffic passes a man-in-the-middle relay before reaching an AI defender.
+ 
+- **Per-packet fast path:** rules, LightGBM, Isolation Forest, autoencoders and CUSUM fused into one risk score that picks among forward, flag, hold, block, quarantine or escalate
+- **Supervisory LLM agent** (local Qwen2.5-3B) retunes the defence every 2 s — only through whitelisted, bounded changes, each replay-verified and rolled back if it doesn't help
+- FastAPI + React live dashboard; Docker setup; covers reconnaissance, spoofing, exfiltration and command-injection traffic
+<sub>`Python` · `LightGBM` · `PyTorch` · `FastAPI` · `React` · `Docker`</sub>
+ 
+### Smaller builds
+ 
+- **[Error-Correcting Codes](https://github.com/DeStRoYeR-droid/Error-Correcting-Codes)** (C++17): Hamming codes with syndrome correction and CRC via polynomial division, from scratch, validated against injected bit flips
+- **[Connect Four](https://github.com/DeStRoYeR-droid/Connect-Four-Pygame)** (Python): minimax with alpha-beta pruning
+- **[Nebula Atlas](https://github.com/DeStRoYeR-droid/nebula-atlas)** · [live demo](https://destroyer-droid.github.io/nebula-atlas/): interactive nebula gallery with a sliding-puzzle view (React, Tailwind, Motion)
 
 ---
 
@@ -56,7 +84,7 @@ Link-layer error detection and correction, from scratch, zero dependencies. **Ha
 
 ---
 
-## 📊 By the numbers
+## By the numbers
 
 <div align="center"> <img height="180" src="https://leetcard.jacoblin.cool/immanuelvivek40609?theme=light&font=Poppins&ext=heatmap" alt="LeetCode stats" />
 
@@ -74,9 +102,9 @@ Six published technical articles for **[LinuxForDevices](https://www.linuxfordev
 
 ## 🎯 Currently
 
-Final year of my MCA at NIT Warangal, graduating **2027**. Deep in LLM evaluation, systems programming, and competitive programming.
-
-**Open to full-time SDE, ML engineering, and AI research roles for the 2027 batch.** If you're hiring or just want to argue about whether Stockfish's best move is ever the _right_ move to teach — [reach out](mailto:immanuelvivek40609@gmail.com).
+Final year of my MCA at NIT Warangal, graduating **2027**. Deep in LLM evaluation, distributed systems, security, and competitive programming.
+ 
+**Open to full-time SDE, ML engineering, and AI research roles for the 2027 batch.** If you're hiring or just want to discuss about basketball (certified ball 🏀 knower here) — [reach out](mailto:immanuelvivek40609@gmail.com).
 
 <div align="center"> <br>
 
