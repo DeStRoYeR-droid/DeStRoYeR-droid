@@ -8,7 +8,7 @@ Building evaluation pipelines for LLMs · Writing C++ that has to be fast · Pla
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immanuel-vivek-tirkey/) [![LeetCode](https://img.shields.io/badge/LeetCode%20Guardian%20%C2%B7%202221-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/immanuelvivek40609/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanuelvivek40609@gmail.com) [![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/DeStRoYeR-droid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immanuel-vivek-tirkey/) [![LeetCode](https://img.shields.io/badge/LeetCode%20Guardian%20%C2%B7%202221-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/immanuelvivek40609/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immanuelvivek40609@gmail.com) [![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1My5abJprzYYSKpbcp7sM3Q6ag5-62EeX/view?usp=sharing)
 
 </div>
 
